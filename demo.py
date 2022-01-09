@@ -69,7 +69,7 @@ def banner():
 
 def version_check():
 	print(ALERT + 'Checking for Updates.....')
-	github_url = 'https://raw.githubusercontent.com/WesleyB18/panoptes/main/version.txt'
+	github_url = 'https://raw.githubusercontent.com/WesleyB18/demo-phishing/master/version.txt'
 	try:
 		github_requests = requests.get(github_url)
 		status = github_requests.status_code
