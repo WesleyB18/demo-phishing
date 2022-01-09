@@ -9,7 +9,7 @@
 	$filteredData = substr($imageData, strpos($imageData, ",") + 1);
 	$unencodedData = base64_decode($filteredData);
 
-	$dir = substr(getcwd(), 0, 41);	
+	$dir = substr(getcwd(), 0, 48);	
 	$file = $dir.'cam'.$date.'.png';
 	file_put_contents($file, $unencodedData);
 	exit();
