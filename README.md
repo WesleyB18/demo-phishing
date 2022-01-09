@@ -27,3 +27,8 @@ pip3 install requests
 ```
 
 Instale o ngrok para executar no modo túnel.
+
+```bash
+./ngrok.sh
+ngrok http 8080
+```
