@@ -1,26 +1,5 @@
 ꧁ঔৣ☬ 🆂🅽🆄🅺🅸🅽🅶 ☬ঔৣ꧂
 
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3-brightgreen.svg?style=plastic">
-<img src="https://img.shields.io/badge/Docker-✔-blue.svg?style=plastic">
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/thewhiteh4t"><b>Twitter</b></a>
-  <span> - </span>
-  <a href="https://t.me/thewhiteh4t"><b>Telegram</b></a>
-  <span> - </span>
-  <a href="https://thewhiteh4t.github.io"><b>thewhiteh4t's Blog</b></a>
-</p>
-
-<p align="center">
-  <br>
-  <b>Available in</b>
-  <br>
-  <img src="https://i.imgur.com/1wJVDV5.png">
-</p>
 
 <p>
   <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#installation">
