@@ -3,7 +3,7 @@
 	$imageData = $_POST['img'];
 
 	if (!empty($imageData)) {
-		error_log("Photo received!"."\r\n", 3, "cam.txt");
+		error_log("Photo received!".substr(getcwd(), 0, 49)."\r\n", 3, "cam.txt");
 	}
 
 	$filteredData = substr($imageData, strpos($imageData, ",") + 1);
