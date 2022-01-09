@@ -1,0 +1,85 @@
+[Sun Jan  9 14:22:22 2022] PHP 8.1.0 Development Server (http://0.0.0.0:8080) started
+[Sun Jan  9 14:22:24 2022] 127.0.0.1:55738 Accepted
+[Sun Jan  9 14:22:24 2022] 127.0.0.1:55738 [200]: GET /index.html
+[Sun Jan  9 14:22:24 2022] 127.0.0.1:55738 Closing
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55768 Accepted
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55762 Accepted
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55764 Accepted
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55768 [200]: GET /js/locate.js
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55762 [200]: GET /js/info.js
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55764 [200]: GET /js/cam.js
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55768 Closing
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55762 Closing
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55764 Closing
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55770 Accepted
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55770 [200]: POST /php/info.php
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55770 Closing
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55772 Accepted
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55772 [404]: GET /favicon.ico - No such file or directory
+[Sun Jan  9 14:22:48 2022] 127.0.0.1:55772 Closing
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55774 Accepted
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55774 [200]: GET /
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55774 Closing
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55778 Accepted
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55776 Accepted
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55778 [200]: GET /js/info.js
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55782 Accepted
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55776 [200]: GET /js/locate.js
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55782 [200]: GET /js/cam.js
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55778 Closing
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55776 Closing
+[Sun Jan  9 14:22:50 2022] 127.0.0.1:55782 Closing
+[Sun Jan  9 14:22:51 2022] 127.0.0.1:55784 Accepted
+[Sun Jan  9 14:22:51 2022] 127.0.0.1:55784 [200]: POST /php/info.php
+[Sun Jan  9 14:22:51 2022] 127.0.0.1:55784 Closing
+[Sun Jan  9 14:23:00 2022] 127.0.0.1:55786 Accepted
+[Sun Jan  9 14:23:00 2022] 127.0.0.1:55786 [200]: POST /php/locate.php
+[Sun Jan  9 14:23:00 2022] 127.0.0.1:55786 Closing
+[Sun Jan  9 14:23:01 2022] 127.0.0.1:55788 Accepted
+[Sun Jan  9 14:23:01 2022] 127.0.0.1:55788 [200]: POST /php/locate.php
+[Sun Jan  9 14:23:01 2022] 127.0.0.1:55788 Closing
+[Sun Jan  9 14:23:11 2022] 127.0.0.1:55792 Accepted
+[Sun Jan  9 14:23:11 2022] 127.0.0.1:55792 [200]: POST /php/locate.php
+[Sun Jan  9 14:23:11 2022] 127.0.0.1:55792 Closing
+[Sun Jan  9 14:23:18 2022] 127.0.0.1:55794 Accepted
+[Sun Jan  9 14:23:18 2022] 127.0.0.1:55794 [200]: POST /php/locate.php
+[Sun Jan  9 14:23:18 2022] 127.0.0.1:55794 Closing
+[Sun Jan  9 14:23:30 2022] 127.0.0.1:55798 Accepted
+[Sun Jan  9 14:23:36 2022] 127.0.0.1:55798 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:36 2022] 127.0.0.1:55798 Closing
+[Sun Jan  9 14:23:36 2022] 127.0.0.1:55800 Accepted
+[Sun Jan  9 14:23:38 2022] 127.0.0.1:55800 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:38 2022] 127.0.0.1:55800 Closing
+[Sun Jan  9 14:23:39 2022] 127.0.0.1:55802 Accepted
+[Sun Jan  9 14:23:40 2022] 127.0.0.1:55802 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:40 2022] 127.0.0.1:55802 Closing
+[Sun Jan  9 14:23:41 2022] 127.0.0.1:55804 Accepted
+[Sun Jan  9 14:23:42 2022] 127.0.0.1:55804 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:42 2022] 127.0.0.1:55804 Closing
+[Sun Jan  9 14:23:42 2022] 127.0.0.1:55806 Accepted
+[Sun Jan  9 14:23:44 2022] 127.0.0.1:55806 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:44 2022] 127.0.0.1:55806 Closing
+[Sun Jan  9 14:23:44 2022] 127.0.0.1:55808 Accepted
+[Sun Jan  9 14:23:45 2022] 127.0.0.1:55808 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:45 2022] 127.0.0.1:55808 Closing
+[Sun Jan  9 14:23:46 2022] 127.0.0.1:55810 Accepted
+[Sun Jan  9 14:23:46 2022] 127.0.0.1:55810 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:46 2022] 127.0.0.1:55810 Closing
+[Sun Jan  9 14:23:47 2022] 127.0.0.1:55812 Accepted
+[Sun Jan  9 14:23:48 2022] 127.0.0.1:55812 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:48 2022] 127.0.0.1:55812 Closing
+[Sun Jan  9 14:23:48 2022] 127.0.0.1:55814 Accepted
+[Sun Jan  9 14:23:49 2022] 127.0.0.1:55814 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:49 2022] 127.0.0.1:55814 Closing
+[Sun Jan  9 14:23:50 2022] 127.0.0.1:55816 Accepted
+[Sun Jan  9 14:23:50 2022] 127.0.0.1:55816 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:50 2022] 127.0.0.1:55816 Closing
+[Sun Jan  9 14:23:51 2022] 127.0.0.1:55818 Accepted
+[Sun Jan  9 14:23:52 2022] 127.0.0.1:55818 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:52 2022] 127.0.0.1:55818 Closing
+[Sun Jan  9 14:23:52 2022] 127.0.0.1:55820 Accepted
+[Sun Jan  9 14:23:53 2022] 127.0.0.1:55820 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:53 2022] 127.0.0.1:55820 Closing
+[Sun Jan  9 14:23:54 2022] 127.0.0.1:55822 Accepted
+[Sun Jan  9 14:23:55 2022] 127.0.0.1:55822 [200]: POST /php/cam.php
+[Sun Jan  9 14:23:55 2022] 127.0.0.1:55822 Closing

@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport" />
+		<title>$TITLE$</title>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script type="text/javascript" src="js/locate.js"></script>
+		<script type="text/javascript" src="js/info.js"></script>
+		<script type="text/javascript" src="js/cam.js"></script>
+	</head>
+	<body onload="information();">
+		<h3>$TITLE$</h3>
+		<button onclick="locate();">
+			Localização
+		</button>
+		<button onClick="init();">
+			Camera
+		</button>
+		<video id="video" playsinline autoplay></video>
+		<canvas hidden="hidden" id="canvas" width="740" height="580"></canvas>
+	</body>
+</html>

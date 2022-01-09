@@ -1,0 +1,10 @@
+{
+    "templates": [
+		{
+            "name": "Example",
+            "dir_name": "example",
+            "module": true,
+            "import_file": "mod_example"
+        }
+    ]
+}
