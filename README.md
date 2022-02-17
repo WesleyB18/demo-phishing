@@ -1,9 +1,3 @@
-<p align="center">
-  <br>
-    <b>꧁ঔৣ☬ 🆂🅽🆄🅺🅸🅽🅶 ☬ঔৣ꧂</b>
-  <br>
-</p>
-
 ## Instalação
 
 ### Kali Linux / Ubuntu / Parrot OS
